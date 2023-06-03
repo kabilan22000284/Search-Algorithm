@@ -113,6 +113,14 @@ else:
 
 ```
 ## Sample Input and Output
+1.) # Use a linear search method to match the item in a list.
+![Screenshot (47)](https://github.com/kabilan22000284/Search-Algorithm/assets/123469171/9dbb8615-1932-437e-ab1e-6b1f98588951)
+2.) # Find the element in a list using Binary Search(Iterative Method).
+![Screenshot (48)](https://github.com/kabilan22000284/Search-Algorithm/assets/123469171/168ea724-aff3-4032-a06d-d0fdda3abdc2)
+3.) # Find the element in a list using Binary Search (recursive Method).
+![Screenshot (49)](https://github.com/kabilan22000284/Search-Algorithm/assets/123469171/57d49e1b-243f-4191-850a-e399f7ba9ee9)
+
+
 
 
 
